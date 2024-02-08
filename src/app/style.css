@@ -1,0 +1,21 @@
+.input-field {
+  display: block;
+  margin: 10px;
+  height: 30px;
+  width: 300px;
+}
+
+.btn {
+  background-color: aquamarine;
+  color: black;
+  width: 300px;
+  height: 30px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.update-user a h2{
+  margin-left: 25px;
+}
